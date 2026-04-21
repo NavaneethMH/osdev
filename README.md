@@ -60,8 +60,7 @@
 
   Expected Output
 
-  ================================
-        HELLO FROM MY TOY OS!
+  HELLO FROM MY TOY OS!
   ================================
 
   If you can read this, the kernel
